@@ -31,7 +31,8 @@ ${data.contribution}
 ${data.test}
 
 ## Contact
-For any questions regarding the project you can contact me at ${data.email}
+- <a href='https://github.com/${data.username}' target='_blank'>GitHub: ${data.username}</a>
+- For any questions regarding the project you can contact me at ${data.email}
   `
 }
 

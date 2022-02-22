@@ -51,6 +51,12 @@ const questions = [
         },
         {
             type: 'input',
+            name: 'username',
+            message: "Provide your GitHub username",
+            validate: value =>{ if(value){return true} else{return 'I need a value to continue'} }
+        },
+        {
+            type: 'input',
             name: 'email',
             message: "Provide an email address for any questions about the repo",
             validate: value =>{ if(value){return true} else{return 'I need a value to continue'} }
