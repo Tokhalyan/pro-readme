@@ -1,0 +1,27 @@
+{
+  "name": "pro-readme",
+  "version": "1.0.0",
+  "description": "Command-line application which is creating professional README by using user inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tokhalyan/pro-readme.git"
+  },
+  "keywords": [
+    "readme",
+    "github",
+    "description"
+  ],
+  "author": "Shahen Tokhalyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tokhalyan/pro-readme/issues"
+  },
+  "homepage": "https://github.com/Tokhalyan/pro-readme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
