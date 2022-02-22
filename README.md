@@ -1,33 +1,33 @@
-# Forestcast ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+# Git it done ![GitHub license](https://img.shields.io/badge/license-APACHE2.0-yellowgreen.svg)
 
-  ## Table of contents
-    * [Description](#description)
-    * [Installation](#dependencies)
-    * [Ssage](#usage)
-    * [License](#license)
-    * [Contribution](#contribution)
-    * [Contact us](#email)
+## Table of contents
+* [Description](#description)
+* [Installation](#dependencies)
+* [Ssage](#usage)
+* [License](#license)
+* [Contribution](#contribution)
+* [Contact us](#email)
     
-  ## Description
-    A website where users can get information about the national parks
+## Description
+A web application which can search for the github repositories and open the issues
 
-    ## Installation
-    none
+## Installation
+None
 
-    ## Usage
-    For learning and travelin
+## Usage
+Working on different Github issues
 
-    ## License
-    MIT 
+## License
+APACHE2.0 
 * [License](#license)
 
 
-    ## Contribution
-    Shahen Tokhalyan, Sarah Wyner, Christian Barandang
+## Contribution
+Shahen Tokhalyan
 
-    ## Tests
-    npm test
+## Tests
+npm test
 
-    ## Questions
-    For any questions regarding the project you can contact me at Tokhalyan@gmail.com
+## Questions
+For any questions regarding the project you can contact me at Tokhalyan@gmail.com
   

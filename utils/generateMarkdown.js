@@ -3,34 +3,34 @@
 function generateMarkdown(data) {
   return `# ${data.title} ${renderBadge(data.license)}
 
-  ## Table of contents
-    * [Description](#description)
-    * [Installation](#dependencies)
-    * [Ssage](#usage)
-    * [License](#license)
-    * [Contribution](#contribution)
-    * [Contact us](#email)
+## Table of contents
+* [Description](#description)
+* [Installation](#dependencies)
+* [Ssage](#usage)
+* [License](#license)
+* [Contribution](#contribution)
+* [Contact us](#email)
     
-  ## Description
-    ${data.description}
+## Description
+${data.description}
 
-    ## Installation
-    ${data.dependencies}
+## Installation
+${data.dependencies}
 
-    ## Usage
-    ${data.usage}
+## Usage
+${data.usage}
 
-    ## License
-    ${data.license} ${renderLink(data.license)}
+## License
+${data.license} ${renderLink(data.license)}
 
-    ## Contribution
-    ${data.contribution}
+## Contribution
+${data.contribution}
 
-    ## Tests
-    ${data.test}
+## Tests
+${data.test}
 
-    ## Questions
-    For any questions regarding the project you can contact me at ${data.email}
+## Questions
+For any questions regarding the project you can contact me at ${data.email}
   `
 }
 
