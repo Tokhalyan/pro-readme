@@ -5,11 +5,11 @@ function generateMarkdown(data) {
 
 ## Table of contents
 * [Description](#description)
-* [Installation](#dependencies)
+* [Dependencies](#dependencies)
 * [Usage](#usage)
 * [License](#license)
 * [Contribution](#contribution)
-* [Contact us](#email)
+* [Contact](#email)
 
 ## Description
 ${data.description}
@@ -21,7 +21,8 @@ ${data.dependencies}
 ${data.usage}
 
 ## License
-${data.license} ${renderSection(data.license)}
+${data.license} 
+${renderSection(data.license)}
 
 ## Contribution
 ${data.contribution}
@@ -29,7 +30,7 @@ ${data.contribution}
 ## Tests
 ${data.test}
 
-## Questions
+## Contact
 For any questions regarding the project you can contact me at ${data.email}
   `
 }
@@ -46,7 +47,7 @@ function renderBadge(license) {
 function renderSection(license) {
   if (license !== "None") {
     return (
-      `## License 📛
+      `
       Copyright © ${license}. All rights reserved. 
       
       Licensed under the ${license} license.`

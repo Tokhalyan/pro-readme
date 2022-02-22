@@ -1,27 +1,28 @@
-# Shahen ![GitHub license](https://img.shields.io/badge/license-GPL3.0-yellowgreen.svg)
+# Shahen ![GitHub license](https://img.shields.io/badge/license-BSD3-yellowgreen.svg)
 
 ## Table of contents
 * [Description](#description)
-* [Installation](#dependencies)
+* [Dependencies](#dependencies)
 * [Usage](#usage)
 * [License](#license)
 * [Contribution](#contribution)
-* [Contact us](#email)
+* [Contact](#email)
 
 ## Description
-TOkhalyan Tokhalyan Tokhalyan Tokhalyan Shahen
+Shahen Shahen Tokhalyan Tokhalyan
 
 ## Installation
 npm
 
 ## Usage
-The project can be used for Shahen Tokhalyan
+Shahen Tokhalyan
 
 ## License
-GPL3.0 ## License 📛
-      Copyright © GPL3.0. All rights reserved. 
+BSD3 
+
+      Copyright © BSD3. All rights reserved. 
       
-      Licensed under the GPL3.0 license.
+      Licensed under the BSD3 license.
 
 ## Contribution
 Shahen Tokhalyan
@@ -29,6 +30,6 @@ Shahen Tokhalyan
 ## Tests
 npm test
 
-## Questions
+## Contact
 For any questions regarding the project you can contact me at Tokhalyan@gmail.com
   
