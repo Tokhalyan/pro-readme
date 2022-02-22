@@ -1,36 +1,58 @@
-# dasdsadsa ![GitHub license](https://img.shields.io/badge/license-APACHE2.0-yellowgreen.svg)
+# Pro README Generator
 
-## Table of contents
-* [Description](#description)
-* [Dependencies](#dependencies)
-* [Usage](#usage)
-* [License](#license)
-* [Contribution](#contribution)
-* [Contact](#email)
+Walkthrough Video: https://drive.google.com/file/d/1jILhZ2aY4fLfQo5NE7FVcevbqH6of1I6/view
+
+## User Story 
+- AS A developer
+- I WANT a README generator
+- SO THAT I can quickly create a professional README for a new project
+
+----------------------------------------------------------------------
+
+- GIVEN a command-line application that accepts user input
+- WHEN I am prompted for information about my application repository
+- THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+- WHEN I enter my project title
+- THEN this is displayed as the title of the README
+- WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
+- THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+- WHEN I choose a license for my application from a list of options
+- THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+- WHEN I enter my GitHub username
+- THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+- WHEN I enter my email address
+- THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+- WHEN I click on the links in the Table of Contents
+- THEN I am taken to the corresponding section of the README
 
 ## Description
-asdasdsad
+- Pro README Generator is a command-line application that accepts user input
+- All interaction with the user goes thru the terminal
+- When users runs the application prompt questions will be asked.
+- User will be asked to enter:
+1. Title of the project
+2. Description of the project
+3. What packages have been installed for the project
+4. What can the application be used for
+5. What license is the user using for the project
+6. Information about the creator/creators of the project
+7. How to test the application
+8. Email address
 
-## Installation
-fgdfhdfghdsfdsa
+## Instructions
+- Run the code in terminal (node index)
+- Answer the questions about the project
+- After all the questions message 'Your README file has been successfully generated' will appear
+- The new README.md file will be generated in the dist/ folder
 
-## Usage
-dssadsasasadsadas
+## Build with 
+- Node.js
 
-## License
-APACHE2.0 
+## Packages Used
+- Inquirer
+- Path 
 
-      Copyright © APACHE2.0. All rights reserved. 
-      
-      Licensed under the APACHE2.0 license.
+## Contribution 
+- Made with ❤ by Shahen Tokhalyan
 
-## Contribution
-sdsadsadsa
-
-## Tests
-npm test
-
-## Contact
-- <a href='https://github.com/Tokhalyan' target='_blank'>GitHub: Tokhalyan</a>
-- For any questions regarding the project you can contact me at Tokhalyan@gmail.com
-  
+![Screenshot](./assets/images/screenshot.png)
