@@ -1,26 +1,27 @@
-# Git it done ![GitHub license](https://img.shields.io/badge/license-APACHE2.0-yellowgreen.svg)
+# Shahen ![GitHub license](https://img.shields.io/badge/license-GPL3.0-yellowgreen.svg)
 
 ## Table of contents
 * [Description](#description)
 * [Installation](#dependencies)
-* [Ssage](#usage)
+* [Usage](#usage)
 * [License](#license)
 * [Contribution](#contribution)
 * [Contact us](#email)
-    
+
 ## Description
-A web application which can search for the github repositories and open the issues
+TOkhalyan Tokhalyan Tokhalyan Tokhalyan Shahen
 
 ## Installation
-None
+npm
 
 ## Usage
-Working on different Github issues
+The project can be used for Shahen Tokhalyan
 
 ## License
-APACHE2.0 
-* [License](#license)
-
+GPL3.0 ## License 📛
+      Copyright © GPL3.0. All rights reserved. 
+      
+      Licensed under the GPL3.0 license.
 
 ## Contribution
 Shahen Tokhalyan

@@ -6,11 +6,11 @@ function generateMarkdown(data) {
 ## Table of contents
 * [Description](#description)
 * [Installation](#dependencies)
-* [Ssage](#usage)
+* [Usage](#usage)
 * [License](#license)
 * [Contribution](#contribution)
 * [Contact us](#email)
-    
+
 ## Description
 ${data.description}
 
@@ -21,7 +21,7 @@ ${data.dependencies}
 ${data.usage}
 
 ## License
-${data.license} ${renderLink(data.license)}
+${data.license} ${renderSection(data.license)}
 
 ## Contribution
 ${data.contribution}
@@ -38,16 +38,6 @@ For any questions regarding the project you can contact me at ${data.email}
 function renderBadge(license) {
   if (license !== "None") {
     return `![GitHub license](https://img.shields.io/badge/license-${license}-yellowgreen.svg)`
-  }
-  return ''
-}
-
-// Function to render link
-function renderLink(license) {
-  if (license !== "None") {
-    return (
-      `\n* [License](#license)\n`
-    )
   }
   return ''
 }
