@@ -1,4 +1,4 @@
-# Fore-st-cast ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+# pro-README ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 ## Table of contents
 * [Description](#description)
@@ -9,13 +9,13 @@
 * [Contact](#contact)
 
 ## Description
-Fore-st-cast is a web application where users can get information about different national parks depending on the state they choose. User will also get information about the weather in the chosen state aand current information about COVID-19 Pandemic.
+Pro README Generator is a command-line application that accepts user input '\n'All interaction with the user goes thru the terminal '\n'When users runs the application prompt questions will be asked.
 
 ## Installation
 npm inquirer
 
 ## Usage
-The project can be used for searching and getting information about US National Parks
+The project can be used to create a professional README 
 
 ## License
 MIT 
@@ -25,7 +25,7 @@ MIT
       Licensed under the MIT license.
 
 ## Contribution
-Made with ❤ by Shahen Tokhalyan
+Shahen Tokhalyan
 
 ## Tests
 npm test
