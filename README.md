@@ -1,6 +1,6 @@
 # Pro README Generator
 
-Walkthrough Video: 
+Walkthrough Video: https://drive.google.com/file/d/1Yi1DuyAI95NBA-xhV4c2WJpFMFTGEs3d/view?usp=sharing
 
 ## User Story 
 - AS A developer
